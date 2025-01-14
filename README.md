@@ -48,5 +48,5 @@ Linux Gaming Communties to fufill all your questions, and gaming needs
 Contributions are welcome!
 Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
-## License
+##
 [![CC0](https://licensebuttons.net/l/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/) 
