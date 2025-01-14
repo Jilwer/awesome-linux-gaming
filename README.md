@@ -8,11 +8,11 @@
 ## Contents 
 - [Awesome Linux Gaming](#awesome-linux-gaming)
   - [Contents](#contents)
-  - [Introduction](#introduction)
   - [Distributions](#distributions)
   - [Launchers](#launchers)
   - [Tools](#tools)
   - [License](#license)
+  - [Communties](#communities)
 
 ## Distributions
 A lot of "gaming distro's" don't really offer anything special. Here are some that truly do.
@@ -32,6 +32,14 @@ A lot of "gaming distro's" don't really offer anything special. Here are some th
 - [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) - A custom version of Proton with various patches and optimizations for gaming. It is known for providing better performance in some games than the official Proton version.
 - [ProtonUp-QT](https://davidotek.github.io/protonup-qt/) - A GUI tool using QT for managing Proton-GE and other custom Proton versions. It allows you to easily install, update, and remove custom Proton versions.
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A GUI tool for using GTK managing Proton-GE and other custom Proton versions. It allows you to easily install, update, and remove custom Proton versions. Offers more features than ProtonUp-QT.
+
+## Communities
+- [GamingOnLinux](https://www.gamingonlinux.com/)
+- [Nobara/Proton-GE](https://discord.com/invite/6y3BdzC)
+- [CachyOS](https://discord.gg/cachyos-862292009423470592)
+- [Bazzite/Ublue](https://discord.bazzite.gg/)
+- [r/linux_gaming](https://www.reddit.com/r/linux_gaming/)
+  
 
 ## Contributing
 Contributions are welcome!
