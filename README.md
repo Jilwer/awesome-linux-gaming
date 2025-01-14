@@ -2,22 +2,24 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
+## Legend
+[⭐] - Highly Reccomended
 
 ## Contents 
 - [Awesome Linux Gaming](#awesome-linux-gaming)
   - [Contents](#contents)
   - [Introduction](#introduction)
   - [Distributions](#distributions)
-  - [Emulators](#emulators)
   - [Launchers](#launchers)
   - [Tools](#tools)
   - [License](#license)
 
 ## Distributions
-- [CachyOS](https://cachyos.org/) - A performance-oriented Linux distribution based on Arch Linux. Comes with numerous optimizations for gaming and general use, as well as a custom kernel, and tools to tweak it. Comes with less preinstalled software than other distributions, but is very customizable.
-- [Bazzite](https://bazzite.gg/) - An immutable Linux distribution based on Fedora Silverblue/UBLUE  for gaming. Preconfigured for gaming with very little setup involved, and the great stability of Fedora Silverblue.
-- [Nobara Linux](https://nobaraproject.org/) - A gaming distribution based on Fedora. Made by the creator of Proton-GE himself, GloriousEggroll.
-- [Garuda Linux](https://garudalinux.org/) - A preconfigured Arch Linux distribution for gaming. Comes with a lot of preinstalled software and tools for gaming and general use.
+A lot of "gaming distro's" don't really offer anything special. Here are some that truly do.
+- ⭐ [CachyOS](https://cachyos.org/) - A performance-oriented Linux distribution based on Arch Linux. Comes with numerous optimizations for gaming and general use, as well as a custom kernel, and tools to tweak it. Comes with less preinstalled software than other distributions, it does have some basic utilities (CachyOS Hello, Kernel Manager) but it is very customizable.
+- ⭐ [Bazzite](https://bazzite.gg/) - An immutable Linux distribution based on Fedora Silverblue/UBLUE  for gaming. Preconfigured for gaming with very little setup involved, and the great stability of Fedora Silverblue.
+- [Nobara Linux](https://nobaraproject.org/) - A gaming distribution based on Fedora. Comes with some useful kernel tweaks, and lots of great in-house utility programs. Made by the creator of Proton-GE himself, GloriousEggroll.
+- [Garuda Linux](https://garudalinux.org/) - A preconfigured Arch Linux distribution for gaming. Comes with a lot of preinstalled software, out-of-the-box theming, in-house utility programs, and tools for gaming and general use.
  
 ## Launchers
 - [Lutris](https://lutris.net/) - An open-source gaming platform for Linux. It installs and launches games so you can start playing without the hassle of setting up your games. Get your games from GOG, Steam, Battle.net, Origin, Uplay and many other sources running on any Linux powered gaming machine.
