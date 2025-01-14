@@ -17,7 +17,8 @@
 
 ## Distributions
 A lot of "gaming distros" don't really offer anything special. Here are some that truly do.
-- ⭐ [CachyOS](https://cachyos.org/) - A performance-oriented Linux distribution based on Arch Linux. Comes with numerous optimizations for gaming and general use, as well as a custom kernel, and tools to tweak it. Comes with less preinstalled software than other distributions; however it does have some basic utilities (CachyOS Hello, Kernel Manager) but it is very customizable.
+- ⭐ [CachyOS](https://cachyos.org/) - A performance-oriented Linux distribution based on Arch Linux. Comes with numerous optimizations for gaming and general use, as well as a custom kernel, and tools to tweak it. 
+  It comes with less preinstalled software than other distributions; however it does have some basic utilities (CachyOS Hello, Kernel Manager) and it is very customizable.
 - ⭐ [Bazzite](https://bazzite.gg/) - An immutable Linux distribution based on Fedora Silverblue/UBLUE  for gaming. Preconfigured for gaming with very little setup involved, and the great stability of Fedora Silverblue.
 - [Nobara Linux](https://nobaraproject.org/) - A gaming distribution based on Fedora. Comes with some useful kernel tweaks, and lots of great in-house utility programs. Made by the creator of Proton-GE himself, GloriousEggroll.
 - [Garuda Linux](https://garudalinux.org/) - A preconfigured Arch Linux distribution for gaming. Comes with a lot of preinstalled software, out-of-the-box theming, in-house utility programs, and tools for gaming and general use.
