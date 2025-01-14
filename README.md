@@ -11,8 +11,9 @@
   - [Distributions](#distributions)
   - [Launchers](#launchers)
   - [Tools](#tools)
-  - [License](#license)
   - [Communties](#communities)
+  - [License](#license)
+  
 
 ## Distributions
 A lot of "gaming distro's" don't really offer anything special. Here are some that truly do.
@@ -48,5 +49,7 @@ Linux Gaming Communties to fufill all your questions, and gaming needs
 Contributions are welcome!
 Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
-##
+## License
+This repository is licensed under CC0.
+
 [![CC0](https://licensebuttons.net/l/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/) 
