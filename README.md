@@ -37,7 +37,7 @@ Gaming tools to enhance your experience
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A GUI tool for using GTK managing Proton-GE and other custom Proton versions. It allows you to easily install, update, and remove custom Proton versions. Offers more features than ProtonUp-QT.
 
 ## Communities
-Linux Gaming Communties to fufill all your questions, and gaming needs
+Linux Gaming Communties to fufill all your questions and gaming needs.
 - [GamingOnLinux](https://www.gamingonlinux.com/)
 - [Nobara/Proton-GE](https://discord.com/invite/6y3BdzC)
 - [CachyOS](https://discord.gg/cachyos-862292009423470592)
