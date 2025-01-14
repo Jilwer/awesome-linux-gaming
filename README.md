@@ -31,5 +31,9 @@
 - [ProtonUp-QT](https://davidotek.github.io/protonup-qt/) - A GUI tool using QT for managing Proton-GE and other custom Proton versions. It allows you to easily install, update, and remove custom Proton versions.
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A GUI tool for using GTK managing Proton-GE and other custom Proton versions. It allows you to easily install, update, and remove custom Proton versions. Offers more features than ProtonUp-QT.
 
+## Contributing
+Contributions are welcome!
+Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
+
 ## License
 [![CC0](https://licensebuttons.net/l/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/) 
